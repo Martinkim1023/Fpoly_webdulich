@@ -1,0 +1,64 @@
+/*------------------- This  CONTRACK US------------------------*/
+
+#contract{
+	background-color:#fff;
+	margin-top: 15px;
+    z-index: 1;
+}
+.row main-row{
+			width: 1200px;	
+		}
+		.box-contract{
+			margin-left:55px;
+		}
+		.box-contract h3{
+		    font-family: 'arial';
+		    font-size: 1.3em;
+		    color: #000000;
+		    padding: 0;
+		    padding-bottom: 10px;
+		    border-bottom: 1px solid #cccccc;
+		}
+		
+		#section{
+			margin-top:15px;
+			border-top:1px solid #cccccc;
+			padding-bottom:10px;
+			
+		}
+		#contract-form{
+			margin-top:20px;
+			margin-bottom:70px;
+		}
+		#contract-form label.title{
+			font-family:'arial';
+			font-size:12px;
+			display:block;
+			color:#000000;
+			padding-bottom:5px;
+		}
+		#contract-form input.box-input{
+			width:50%;
+			border-radius:2px;
+			padding-top:5px;
+			padding-bottom:5px;
+			background-color:#F5F5F5;
+			border:1px solid #cccccc;	
+			
+		}
+		.input-booking{
+			margin-bottom:15px;
+		}
+		#massage{
+			background-color:#F5F5F5;
+		}
+		#send{
+			color:#fff;
+			background-color:#000000;
+			outline:none;
+			border:none;
+			padding: 5px 20px 5px 20px;
+		}
+		#send:hover{
+			box-shadow:1px 1px 5px 5px;
+		}
